@@ -11,7 +11,7 @@
 
 - 📫 Reach out: **pritamkarar2@gmail.com**
 
-- 📖 Learn about me: https://tylerslaton.dev
+- 📖 Learn about me: https://pritam.pp.ua/
 
 - 📄 My experiences: https://www.linkedin.com/in/pritamkarar/
 
