@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Karar</h1>
 <h3 align="center">I'm passionate about .NET, React, Azure, Web3 and anything adjacent.</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerslaton&show_icons=true&locale=en" alt="tylerslaton" /></p>
-
 ---
 
 - 😄 Pronouns `he`/`him`/`his`
